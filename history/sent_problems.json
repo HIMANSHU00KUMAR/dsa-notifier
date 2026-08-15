@@ -12,5 +12,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2236/B",
     "sent_at": "2026-08-15T19:22:40.411597+00:00"
+  },
+  {
+    "key": "2247B",
+    "contestId": 2247,
+    "index": "B",
+    "name": "Yet Another Constructive",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2247/B",
+    "sent_at": "2026-08-15T19:50:18.147377+00:00"
   }
 ]
