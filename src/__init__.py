@@ -1,0 +1,3 @@
+"""
+DSA Daily Notifier package.
+"""
