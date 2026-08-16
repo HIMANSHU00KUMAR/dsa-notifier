@@ -50,5 +50,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2240/A",
     "sent_at": "2026-08-16T09:15:55.391056+00:00"
+  },
+  {
+    "key": "2238B",
+    "contestId": 2238,
+    "index": "B",
+    "name": "Crimson Triples",
+    "rating": 900,
+    "tags": [
+      "dp",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2238/B",
+    "sent_at": "2026-08-16T09:49:55.434720+00:00"
   }
 ]
