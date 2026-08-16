@@ -24,5 +24,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2247/B",
     "sent_at": "2026-08-15T19:50:18.147377+00:00"
+  },
+  {
+    "key": "2255A",
+    "contestId": 2255,
+    "index": "A",
+    "name": "Hot Potatoes at the Fairy Warehouse",
+    "rating": 1200,
+    "tags": [
+      "games",
+      "greedy",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2255/A",
+    "sent_at": "2026-08-16T03:26:39.199855+00:00"
   }
 ]
