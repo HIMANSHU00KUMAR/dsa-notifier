@@ -2,8 +2,8 @@ name: Daily DSA Notifier
 
 on:
   schedule:
-    # Runs everyday at 09:30 UTC (3:00 PM IST)
-    - cron: '30 9 * * *'
+    # Runs everyday at 02:30 UTC (8:00 AM IST)
+    - cron: '30 2 * * *'
   workflow_dispatch: # Allows manual one-click trigger from GitHub Actions tab anytime!
 
 jobs:
