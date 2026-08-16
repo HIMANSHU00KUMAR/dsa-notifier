@@ -64,5 +64,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2238/B",
     "sent_at": "2026-08-16T09:49:55.434720+00:00"
+  },
+  {
+    "key": "2230B",
+    "contestId": 2230,
+    "index": "B",
+    "name": "Digit String",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2230/B",
+    "sent_at": "2026-08-16T09:58:33.000187+00:00"
   }
 ]
