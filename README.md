@@ -104,8 +104,8 @@ The daily notification schedule is configured in [`.github/workflows/daily_dsa.y
 ```yaml
 on:
   schedule:
-    # 09:30 UTC = 3:00 PM IST (Indian Standard Time)
-    - cron: '30 9 * * *'
+    # 02:30 UTC = 8:00 AM IST (Indian Standard Time)
+    - cron: '30 2 * * *'
 ```
 
 To adjust the time:
