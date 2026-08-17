@@ -78,5 +78,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2230/B",
     "sent_at": "2026-08-16T09:58:33.000187+00:00"
+  },
+  {
+    "key": "2248B",
+    "contestId": 2248,
+    "index": "B",
+    "name": "Merge to Match",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2248/B",
+    "sent_at": "2026-08-17T03:25:15.200195+00:00"
   }
 ]
