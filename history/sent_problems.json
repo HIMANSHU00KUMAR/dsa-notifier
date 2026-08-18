@@ -91,5 +91,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2248/B",
     "sent_at": "2026-08-17T03:25:15.200195+00:00"
+  },
+  {
+    "key": "2236C",
+    "contestId": 2236,
+    "index": "C",
+    "name": "Omsk Programmers",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2236/C",
+    "sent_at": "2026-08-18T03:14:09.533753+00:00"
   }
 ]
