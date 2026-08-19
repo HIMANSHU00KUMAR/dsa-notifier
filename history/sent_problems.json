@@ -105,5 +105,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2236/C",
     "sent_at": "2026-08-18T03:14:09.533753+00:00"
+  },
+  {
+    "key": "2231B",
+    "contestId": 2231,
+    "index": "B",
+    "name": "Another Sorting Problem",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2231/B",
+    "sent_at": "2026-08-19T03:22:37.772583+00:00"
   }
 ]
