@@ -117,5 +117,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2231/B",
     "sent_at": "2026-08-19T03:22:37.772583+00:00"
+  },
+  {
+    "key": "2253A",
+    "contestId": 2253,
+    "index": "A",
+    "name": "The Best Card",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2253/A",
+    "sent_at": "2026-08-20T03:15:03.128512+00:00"
   }
 ]
