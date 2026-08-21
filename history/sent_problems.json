@@ -131,5 +131,20 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2253/A",
     "sent_at": "2026-08-20T03:15:03.128512+00:00"
+  },
+  {
+    "key": "2252B",
+    "contestId": 2252,
+    "index": "B",
+    "name": "Always Changing",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2252/B",
+    "sent_at": "2026-08-21T03:27:36.405029+00:00"
   }
 ]
