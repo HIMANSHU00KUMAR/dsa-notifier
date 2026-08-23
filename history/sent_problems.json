@@ -159,5 +159,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2254/A",
     "sent_at": "2026-08-22T03:12:49.771549+00:00"
+  },
+  {
+    "key": "2229B",
+    "contestId": 2229,
+    "index": "B",
+    "name": "Absolute Cinema",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2229/B",
+    "sent_at": "2026-08-23T03:26:53.526927+00:00"
   }
 ]
