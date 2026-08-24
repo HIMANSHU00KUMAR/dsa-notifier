@@ -172,5 +172,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2229/B",
     "sent_at": "2026-08-23T03:26:53.526927+00:00"
+  },
+  {
+    "key": "2227C",
+    "contestId": 2227,
+    "index": "C",
+    "name": "Snowfall",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2227/C",
+    "sent_at": "2026-08-24T03:28:44.650990+00:00"
   }
 ]
