@@ -185,5 +185,20 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2227/C",
     "sent_at": "2026-08-24T03:28:44.650990+00:00"
+  },
+  {
+    "key": "2242B",
+    "contestId": 2242,
+    "index": "B",
+    "name": "Predominant Frequency Division",
+    "rating": 1000,
+    "tags": [
+      "data structures",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2242/B",
+    "sent_at": "2026-08-25T03:23:58.887254+00:00"
   }
 ]
