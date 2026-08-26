@@ -200,5 +200,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2242/B",
     "sent_at": "2026-08-25T03:23:58.887254+00:00"
+  },
+  {
+    "key": "2245A",
+    "contestId": 2245,
+    "index": "A",
+    "name": "Who Watches the Watchpig?",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2245/A",
+    "sent_at": "2026-08-26T03:30:45.925117+00:00"
   }
 ]
