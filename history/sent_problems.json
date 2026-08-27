@@ -212,5 +212,21 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2245/A",
     "sent_at": "2026-08-26T03:30:45.925117+00:00"
+  },
+  {
+    "key": "2234C",
+    "contestId": 2234,
+    "index": "C",
+    "name": "Vessels, Heights and Two Versions (Easy Version)",
+    "rating": 1200,
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2234/C",
+    "sent_at": "2026-08-27T12:56:05.552924+00:00"
   }
 ]
