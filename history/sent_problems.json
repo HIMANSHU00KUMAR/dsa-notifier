@@ -228,5 +228,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2234/C",
     "sent_at": "2026-08-27T12:56:05.552924+00:00"
+  },
+  {
+    "key": "2247C",
+    "contestId": 2247,
+    "index": "C",
+    "name": "Inversion of a Subsequence",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2247/C",
+    "sent_at": "2026-08-28T14:26:36.833154+00:00"
   }
 ]
