@@ -241,5 +241,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2247/C",
     "sent_at": "2026-08-28T14:26:36.833154+00:00"
+  },
+  {
+    "key": "2257A",
+    "contestId": 2257,
+    "index": "A",
+    "name": "Creating Abbreviations",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2257/A",
+    "sent_at": "2026-08-29T09:13:17.338176+00:00"
   }
 ]
