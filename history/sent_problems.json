@@ -267,5 +267,20 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2232/A",
     "sent_at": "2026-08-30T08:25:12.707895+00:00"
+  },
+  {
+    "key": "2224B",
+    "contestId": 2224,
+    "index": "B",
+    "name": "Zhily and Mex and Max",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2224/B",
+    "sent_at": "2026-08-31T08:45:24.560444+00:00"
   }
 ]
