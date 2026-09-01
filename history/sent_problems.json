@@ -282,5 +282,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2224/B",
     "sent_at": "2026-08-31T08:45:24.560444+00:00"
+  },
+  {
+    "key": "2241B",
+    "contestId": 2241,
+    "index": "B",
+    "name": "Good times Good times",
+    "rating": 1100,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2241/B",
+    "sent_at": "2026-09-01T07:53:48.600549+00:00"
   }
 ]
