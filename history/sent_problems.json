@@ -296,5 +296,21 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2241/B",
     "sent_at": "2026-09-01T07:53:48.600549+00:00"
+  },
+  {
+    "key": "2257C",
+    "contestId": 2257,
+    "index": "C",
+    "name": "Spying on the Beaver",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "trees"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2257/C",
+    "sent_at": "2026-09-02T07:11:29.577045+00:00"
   }
 ]
