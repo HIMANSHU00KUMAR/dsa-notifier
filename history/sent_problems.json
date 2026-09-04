@@ -312,5 +312,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2257/C",
     "sent_at": "2026-09-02T07:11:29.577045+00:00"
+  },
+  {
+    "key": "2248A",
+    "contestId": 2248,
+    "index": "A",
+    "name": "You Delete, I Delete",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2248/A",
+    "sent_at": "2026-09-04T07:19:04.173903+00:00"
   }
 ]
