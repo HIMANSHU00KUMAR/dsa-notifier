@@ -324,5 +324,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2248/A",
     "sent_at": "2026-09-04T07:19:04.173903+00:00"
+  },
+  {
+    "key": "2228B",
+    "contestId": 2228,
+    "index": "B",
+    "name": "Remilia Plays Soku",
+    "rating": 1100,
+    "tags": [
+      "games",
+      "implementation"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2228/B",
+    "sent_at": "2026-09-05T06:59:49.920569+00:00"
   }
 ]
