@@ -337,5 +337,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2228/B",
     "sent_at": "2026-09-05T06:59:49.920569+00:00"
+  },
+  {
+    "key": "2254C2",
+    "contestId": 2254,
+    "index": "C2",
+    "name": "Marenol (hard version)",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2254/C2",
+    "sent_at": "2026-09-06T07:12:38.989965+00:00"
   }
 ]
