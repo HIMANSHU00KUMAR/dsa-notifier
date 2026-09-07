@@ -350,5 +350,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2254/C2",
     "sent_at": "2026-09-06T07:12:38.989965+00:00"
+  },
+  {
+    "key": "2232B",
+    "contestId": 2232,
+    "index": "B",
+    "name": "Cake Leveling",
+    "rating": 900,
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2232/B",
+    "sent_at": "2026-09-07T07:25:29.997515+00:00"
   }
 ]
