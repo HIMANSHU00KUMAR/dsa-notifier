@@ -364,5 +364,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2232/B",
     "sent_at": "2026-09-07T07:25:29.997515+00:00"
+  },
+  {
+    "key": "2241C",
+    "contestId": 2241,
+    "index": "C",
+    "name": "RemovevomeR",
+    "rating": 1000,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2241/C",
+    "sent_at": "2026-09-08T07:19:45.946773+00:00"
   }
 ]
