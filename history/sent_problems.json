@@ -376,5 +376,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2241/C",
     "sent_at": "2026-09-08T07:19:45.946773+00:00"
+  },
+  {
+    "key": "2253B",
+    "contestId": 2253,
+    "index": "B",
+    "name": "Hypercarp and the Control Panel",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "data structures",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2253/B",
+    "sent_at": "2026-09-09T07:28:14.152757+00:00"
   }
 ]
