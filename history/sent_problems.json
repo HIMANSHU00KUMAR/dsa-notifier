@@ -390,5 +390,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2253/B",
     "sent_at": "2026-09-09T07:28:14.152757+00:00"
+  },
+  {
+    "key": "2230A",
+    "contestId": 2230,
+    "index": "A",
+    "name": "Optimal Purchase",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2230/A",
+    "sent_at": "2026-09-10T07:24:17.911848+00:00"
   }
 ]
