@@ -403,5 +403,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2230/A",
     "sent_at": "2026-09-10T07:24:17.911848+00:00"
+  },
+  {
+    "key": "2231A",
+    "contestId": 2231,
+    "index": "A",
+    "name": "Construct an Array",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2231/A",
+    "sent_at": "2026-09-11T07:22:16.654147+00:00"
   }
 ]
