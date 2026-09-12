@@ -415,5 +415,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2231/A",
     "sent_at": "2026-09-11T07:22:16.654147+00:00"
+  },
+  {
+    "key": "2242A",
+    "contestId": 2242,
+    "index": "A",
+    "name": "Bigrams",
+    "rating": 800,
+    "tags": [
+      "sortings",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2242/A",
+    "sent_at": "2026-09-12T07:14:30.202060+00:00"
   }
 ]
