@@ -428,5 +428,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2242/A",
     "sent_at": "2026-09-12T07:14:30.202060+00:00"
+  },
+  {
+    "key": "2257B",
+    "contestId": 2257,
+    "index": "B",
+    "name": "Gigantomachy",
+    "rating": 800,
+    "tags": [
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2257/B",
+    "sent_at": "2026-09-13T07:32:31.280428+00:00"
   }
 ]
