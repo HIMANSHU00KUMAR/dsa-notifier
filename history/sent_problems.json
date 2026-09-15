@@ -453,5 +453,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2246/B",
     "sent_at": "2026-09-14T07:59:18.129700+00:00"
+  },
+  {
+    "key": "2237C",
+    "contestId": 2237,
+    "index": "C",
+    "name": "Duck Surplus",
+    "rating": 1000,
+    "tags": [
+      "binary search",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2237/C",
+    "sent_at": "2026-09-15T07:54:50.656645+00:00"
   }
 ]
