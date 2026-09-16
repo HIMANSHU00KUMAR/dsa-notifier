@@ -466,5 +466,23 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2237/C",
     "sent_at": "2026-09-15T07:54:50.656645+00:00"
+  },
+  {
+    "key": "2227D",
+    "contestId": 2227,
+    "index": "D",
+    "name": "Palindromex",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2227/D",
+    "sent_at": "2026-09-16T07:47:52.208364+00:00"
   }
 ]
