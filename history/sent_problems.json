@@ -484,5 +484,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2227/D",
     "sent_at": "2026-09-16T07:47:52.208364+00:00"
+  },
+  {
+    "key": "2225B",
+    "contestId": 2225,
+    "index": "B",
+    "name": "Alternating String",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2225/B",
+    "sent_at": "2026-09-17T07:51:01.890977+00:00"
   }
 ]
