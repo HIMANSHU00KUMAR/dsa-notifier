@@ -509,5 +509,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2217/A",
     "sent_at": "2026-09-18T07:29:49.523880+00:00"
+  },
+  {
+    "key": "2224A",
+    "contestId": 2224,
+    "index": "A",
+    "name": "Zhily and Array Operating",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2224/A",
+    "sent_at": "2026-09-19T07:25:33.995821+00:00"
   }
 ]
