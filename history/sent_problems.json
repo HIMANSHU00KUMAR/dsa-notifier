@@ -522,5 +522,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2224/A",
     "sent_at": "2026-09-19T07:25:33.995821+00:00"
+  },
+  {
+    "key": "2264A",
+    "contestId": 2264,
+    "index": "A",
+    "name": "Rumb Needs a Hand",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "sortings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2264/A",
+    "sent_at": "2026-09-20T07:49:35.361768+00:00"
   }
 ]
