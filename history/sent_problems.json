@@ -536,5 +536,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2264/A",
     "sent_at": "2026-09-20T07:49:35.361768+00:00"
+  },
+  {
+    "key": "2233A",
+    "contestId": 2233,
+    "index": "A",
+    "name": "AI Project Development",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2233/A",
+    "sent_at": "2026-09-21T08:03:57.775118+00:00"
   }
 ]
