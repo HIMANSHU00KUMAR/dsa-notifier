@@ -549,5 +549,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2233/A",
     "sent_at": "2026-09-21T08:03:57.775118+00:00"
+  },
+  {
+    "key": "2234B",
+    "contestId": 2234,
+    "index": "B",
+    "name": "Palindrome, Twelve and Two Terms",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2234/B",
+    "sent_at": "2026-09-22T07:49:06.063548+00:00"
   }
 ]
