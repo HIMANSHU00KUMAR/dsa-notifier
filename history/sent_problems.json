@@ -563,5 +563,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2234/B",
     "sent_at": "2026-09-22T07:49:06.063548+00:00"
+  },
+  {
+    "key": "2229C1",
+    "contestId": 2229,
+    "index": "C1",
+    "name": "We Be Flipping (Easy Version)",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2229/C1",
+    "sent_at": "2026-09-23T07:51:38.663216+00:00"
   }
 ]
