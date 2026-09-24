@@ -576,5 +576,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2229/C1",
     "sent_at": "2026-09-23T07:51:38.663216+00:00"
+  },
+  {
+    "key": "2208A",
+    "contestId": 2208,
+    "index": "A",
+    "name": "Bingo Candies",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2208/A",
+    "sent_at": "2026-09-24T07:41:46.889846+00:00"
   }
 ]
