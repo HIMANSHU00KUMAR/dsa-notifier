@@ -589,5 +589,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2208/A",
     "sent_at": "2026-09-24T07:41:46.889846+00:00"
+  },
+  {
+    "key": "2241A",
+    "contestId": 2241,
+    "index": "A",
+    "name": "Divide and Conquer",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2241/A",
+    "sent_at": "2026-09-25T08:00:42.425233+00:00"
   }
 ]
