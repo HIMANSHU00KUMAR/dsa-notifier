@@ -641,5 +641,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2254/C1",
     "sent_at": "2026-09-28T08:49:26.925742+00:00"
+  },
+  {
+    "key": "2250A",
+    "contestId": 2250,
+    "index": "A",
+    "name": "Threshold Movement",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2250/A",
+    "sent_at": "2026-09-29T08:46:10.100606+00:00"
   }
 ]
