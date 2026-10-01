@@ -669,5 +669,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2218/C",
     "sent_at": "2026-09-30T08:46:38.223579+00:00"
+  },
+  {
+    "key": "2238A",
+    "contestId": 2238,
+    "index": "A",
+    "name": "Another Puzzle from Papyrus",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2238/A",
+    "sent_at": "2026-10-01T09:09:32.042900+00:00"
   }
 ]
