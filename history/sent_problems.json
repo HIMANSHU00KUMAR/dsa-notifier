@@ -683,5 +683,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2238/A",
     "sent_at": "2026-10-01T09:09:32.042900+00:00"
+  },
+  {
+    "key": "2266A",
+    "contestId": 2266,
+    "index": "A",
+    "name": "Good Contest",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2266/A",
+    "sent_at": "2026-10-02T08:42:38.636483+00:00"
   }
 ]
