@@ -695,5 +695,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2266/A",
     "sent_at": "2026-10-02T08:42:38.636483+00:00"
+  },
+  {
+    "key": "2267B",
+    "contestId": 2267,
+    "index": "B",
+    "name": "Fashionable Array",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2267/B",
+    "sent_at": "2026-10-03T08:21:19.519544+00:00"
   }
 ]
