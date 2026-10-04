@@ -709,5 +709,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2267/B",
     "sent_at": "2026-10-03T08:21:19.519544+00:00"
+  },
+  {
+    "key": "2254B",
+    "contestId": 2254,
+    "index": "B",
+    "name": "Evanescent",
+    "rating": 900,
+    "tags": [
+      "implementation",
+      "strings",
+      "two pointers"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2254/B",
+    "sent_at": "2026-10-04T08:36:16.367015+00:00"
   }
 ]
