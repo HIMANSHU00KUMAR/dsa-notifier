@@ -723,5 +723,20 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2254/B",
     "sent_at": "2026-10-04T08:36:16.367015+00:00"
+  },
+  {
+    "key": "2244A",
+    "contestId": 2244,
+    "index": "A",
+    "name": "Iskander and Drawings",
+    "rating": 800,
+    "tags": [
+      "dp",
+      "games",
+      "greedy",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2244/A",
+    "sent_at": "2026-10-05T09:17:22.790190+00:00"
   }
 ]
