@@ -738,5 +738,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2244/A",
     "sent_at": "2026-10-05T09:17:22.790190+00:00"
+  },
+  {
+    "key": "2222B",
+    "contestId": 2222,
+    "index": "B",
+    "name": "Artistic Balance Tree",
+    "rating": 1100,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2222/B",
+    "sent_at": "2026-10-06T09:08:55.690288+00:00"
   }
 ]
