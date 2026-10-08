@@ -764,5 +764,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2236/A",
     "sent_at": "2026-10-07T08:58:33.420684+00:00"
+  },
+  {
+    "key": "2237A",
+    "contestId": 2237,
+    "index": "A",
+    "name": "Destroying Towers",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "schedules"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2237/A",
+    "sent_at": "2026-10-08T09:11:56.209102+00:00"
   }
 ]
