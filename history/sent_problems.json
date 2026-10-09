@@ -778,5 +778,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2237/A",
     "sent_at": "2026-10-08T09:11:56.209102+00:00"
+  },
+  {
+    "key": "2234A",
+    "contestId": 2234,
+    "index": "A",
+    "name": "Euclid, Sequence and Two Numbers",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2234/A",
+    "sent_at": "2026-10-09T09:21:01.573394+00:00"
   }
 ]
