@@ -792,5 +792,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2234/A",
     "sent_at": "2026-10-09T09:21:01.573394+00:00"
+  },
+  {
+    "key": "2247A",
+    "contestId": 2247,
+    "index": "A",
+    "name": "Zero Sum",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2247/A",
+    "sent_at": "2026-10-10T08:42:35.009292+00:00"
   }
 ]
