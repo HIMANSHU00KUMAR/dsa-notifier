@@ -806,5 +806,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2247/A",
     "sent_at": "2026-10-10T08:42:35.009292+00:00"
+  },
+  {
+    "key": "2269A",
+    "contestId": 2269,
+    "index": "A",
+    "name": "SauSaGe Bank",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2269/A",
+    "sent_at": "2026-10-11T09:06:00.945759+00:00"
   }
 ]
