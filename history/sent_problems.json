@@ -819,5 +819,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2269/A",
     "sent_at": "2026-10-11T09:06:00.945759+00:00"
+  },
+  {
+    "key": "2256B",
+    "contestId": 2256,
+    "index": "B",
+    "name": "Domino Tiles",
+    "rating": 1000,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2256/B",
+    "sent_at": "2026-10-12T09:29:20.254484+00:00"
   }
 ]
