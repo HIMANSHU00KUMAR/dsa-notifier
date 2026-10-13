@@ -832,5 +832,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2256/B",
     "sent_at": "2026-10-12T09:29:20.254484+00:00"
+  },
+  {
+    "key": "2240B",
+    "contestId": 2240,
+    "index": "B",
+    "name": "AI Finds Nothing Here",
+    "rating": 1100,
+    "tags": [
+      "combinatorics",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2240/B",
+    "sent_at": "2026-10-13T09:35:36.531236+00:00"
   }
 ]
