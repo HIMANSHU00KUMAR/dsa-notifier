@@ -845,5 +845,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2240/B",
     "sent_at": "2026-10-13T09:35:36.531236+00:00"
+  },
+  {
+    "key": "2225C",
+    "contestId": 2225,
+    "index": "C",
+    "name": "Red-Black Pairs",
+    "rating": 1100,
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2225/C",
+    "sent_at": "2026-10-14T07:50:01.184567+00:00"
   }
 ]
