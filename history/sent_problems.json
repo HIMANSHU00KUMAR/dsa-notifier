@@ -858,5 +858,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2225/C",
     "sent_at": "2026-10-14T07:50:01.184567+00:00"
+  },
+  {
+    "key": "2210B",
+    "contestId": 2210,
+    "index": "B",
+    "name": "Simply Sitting on Chairs",
+    "rating": 900,
+    "tags": [
+      "data structures",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2210/B",
+    "sent_at": "2026-10-15T07:35:46.304360+00:00"
   }
 ]
