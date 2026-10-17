@@ -884,5 +884,20 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2205/A",
     "sent_at": "2026-10-16T07:22:26.351642+00:00"
+  },
+  {
+    "key": "2210A",
+    "contestId": 2210,
+    "index": "A",
+    "name": "A Simple Sequence",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2210/A",
+    "sent_at": "2026-10-17T07:04:17.439970+00:00"
   }
 ]
