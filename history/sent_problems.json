@@ -899,5 +899,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2210/A",
     "sent_at": "2026-10-17T07:04:17.439970+00:00"
+  },
+  {
+    "key": "2209A",
+    "contestId": 2209,
+    "index": "A",
+    "name": "Flip Flops",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2209/A",
+    "sent_at": "2026-10-18T07:19:11.607234+00:00"
   }
 ]
