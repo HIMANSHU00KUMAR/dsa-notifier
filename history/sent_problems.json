@@ -911,5 +911,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2209/A",
     "sent_at": "2026-10-18T07:19:11.607234+00:00"
+  },
+  {
+    "key": "2259C",
+    "contestId": 2259,
+    "index": "C",
+    "name": "101",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2259/C",
+    "sent_at": "2026-10-19T07:57:30.051791+00:00"
   }
 ]
