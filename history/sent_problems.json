@@ -924,5 +924,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2259/C",
     "sent_at": "2026-10-19T07:57:30.051791+00:00"
+  },
+  {
+    "key": "2227A",
+    "contestId": 2227,
+    "index": "A",
+    "name": "Koshary",
+    "rating": 800,
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2227/A",
+    "sent_at": "2026-10-20T07:47:24.647392+00:00"
   }
 ]
