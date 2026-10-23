@@ -965,5 +965,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2218/D",
     "sent_at": "2026-10-22T07:47:06.142907+00:00"
+  },
+  {
+    "key": "2263A",
+    "contestId": 2263,
+    "index": "A",
+    "name": "Min Max Game",
+    "rating": 800,
+    "tags": [
+      "games"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2263/A",
+    "sent_at": "2026-10-23T07:46:02.869626+00:00"
   }
 ]
