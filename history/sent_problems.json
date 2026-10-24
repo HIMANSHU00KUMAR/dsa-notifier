@@ -977,5 +977,21 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2263/A",
     "sent_at": "2026-10-23T07:46:02.869626+00:00"
+  },
+  {
+    "key": "2244D",
+    "contestId": 2244,
+    "index": "D",
+    "name": "Yaroslav and Productivity",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2244/D",
+    "sent_at": "2026-10-24T07:28:14.203386+00:00"
   }
 ]
