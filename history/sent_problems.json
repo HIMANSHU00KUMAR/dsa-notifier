@@ -993,5 +993,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2244/D",
     "sent_at": "2026-10-24T07:28:14.203386+00:00"
+  },
+  {
+    "key": "2218B",
+    "contestId": 2218,
+    "index": "B",
+    "name": "The 67th 6-7 Integer Problem",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2218/B",
+    "sent_at": "2026-10-25T07:41:32.974141+00:00"
   }
 ]
