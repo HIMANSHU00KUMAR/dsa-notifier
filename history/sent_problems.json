@@ -1006,5 +1006,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2218/B",
     "sent_at": "2026-10-25T07:41:32.974141+00:00"
+  },
+  {
+    "key": "2266C",
+    "contestId": 2266,
+    "index": "C",
+    "name": "AND, OR, Sort!",
+    "rating": 1000,
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2266/C",
+    "sent_at": "2026-10-26T07:57:05.593451+00:00"
   }
 ]
