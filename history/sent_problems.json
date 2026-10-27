@@ -1019,5 +1019,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2266/C",
     "sent_at": "2026-10-26T07:57:05.593451+00:00"
+  },
+  {
+    "key": "2226B",
+    "contestId": 2226,
+    "index": "B",
+    "name": "Everything Everywhere",
+    "rating": 900,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2226/B",
+    "sent_at": "2026-10-27T08:05:11.020815+00:00"
   }
 ]
