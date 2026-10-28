@@ -1033,5 +1033,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2226/B",
     "sent_at": "2026-10-27T08:05:11.020815+00:00"
+  },
+  {
+    "key": "2216A",
+    "contestId": 2216,
+    "index": "A",
+    "name": "Course Wishes",
+    "rating": 900,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2216/A",
+    "sent_at": "2026-10-28T08:45:49.579180+00:00"
   }
 ]
