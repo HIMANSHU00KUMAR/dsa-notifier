@@ -1045,5 +1045,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2216/A",
     "sent_at": "2026-10-28T08:45:49.579180+00:00"
+  },
+  {
+    "key": "2226A",
+    "contestId": 2226,
+    "index": "A",
+    "name": "Disturbing Distribution",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2226/A",
+    "sent_at": "2026-10-29T08:41:51.394444+00:00"
   }
 ]
