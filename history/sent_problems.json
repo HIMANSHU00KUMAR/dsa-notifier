@@ -1058,5 +1058,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2226/A",
     "sent_at": "2026-10-29T08:41:51.394444+00:00"
+  },
+  {
+    "key": "2218E",
+    "contestId": 2218,
+    "index": "E",
+    "name": "The 67th XOR Problem",
+    "rating": 1200,
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2218/E",
+    "sent_at": "2026-10-30T08:48:15.474474+00:00"
   }
 ]
