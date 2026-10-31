@@ -1072,5 +1072,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2218/E",
     "sent_at": "2026-10-30T08:48:15.474474+00:00"
+  },
+  {
+    "key": "2271B",
+    "contestId": 2271,
+    "index": "B",
+    "name": "MEX Game",
+    "rating": 1000,
+    "tags": [
+      "games"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2271/B",
+    "sent_at": "2026-10-31T08:35:34.288095+00:00"
   }
 ]
