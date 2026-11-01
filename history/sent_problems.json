@@ -1084,5 +1084,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2271/B",
     "sent_at": "2026-10-31T08:35:34.288095+00:00"
+  },
+  {
+    "key": "2222A",
+    "contestId": 2222,
+    "index": "A",
+    "name": "A Wonderful Contest",
+    "rating": 800,
+    "tags": [
+      "brute force",
+      "dp",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2222/A",
+    "sent_at": "2026-11-01T09:26:37.043855+00:00"
   }
 ]
