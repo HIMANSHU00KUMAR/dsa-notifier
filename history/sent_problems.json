@@ -1098,5 +1098,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2222/A",
     "sent_at": "2026-11-01T09:26:37.043855+00:00"
+  },
+  {
+    "key": "2276A",
+    "contestId": 2276,
+    "index": "A",
+    "name": "Perfect Sandwiches",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2276/A",
+    "sent_at": "2026-11-02T09:42:12.859096+00:00"
   }
 ]
