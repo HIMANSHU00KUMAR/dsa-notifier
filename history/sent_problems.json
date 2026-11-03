@@ -1111,5 +1111,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2276/A",
     "sent_at": "2026-11-02T09:42:12.859096+00:00"
+  },
+  {
+    "key": "2275C",
+    "contestId": 2275,
+    "index": "C",
+    "name": "Unrequited Love",
+    "rating": 1000,
+    "tags": [
+      "brute force",
+      "data structures"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2275/C",
+    "sent_at": "2026-11-03T09:46:12.893946+00:00"
   }
 ]
