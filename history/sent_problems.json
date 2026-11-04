@@ -1124,5 +1124,22 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2275/C",
     "sent_at": "2026-11-03T09:46:12.893946+00:00"
+  },
+  {
+    "key": "2208B",
+    "contestId": 2208,
+    "index": "B",
+    "name": "Cyclists",
+    "rating": 1100,
+    "tags": [
+      "brute force",
+      "games",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2208/B",
+    "sent_at": "2026-11-04T09:32:33.694639+00:00"
   }
 ]
