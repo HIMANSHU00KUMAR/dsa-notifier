@@ -1141,5 +1141,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2208/B",
     "sent_at": "2026-11-04T09:32:33.694639+00:00"
+  },
+  {
+    "key": "2246A",
+    "contestId": 2246,
+    "index": "A",
+    "name": "farmpiggie and Subset Sum",
+    "rating": 800,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2246/A",
+    "sent_at": "2026-11-05T09:40:13.087459+00:00"
   }
 ]
