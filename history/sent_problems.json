@@ -1153,5 +1153,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2246/A",
     "sent_at": "2026-11-05T09:40:13.087459+00:00"
+  },
+  {
+    "key": "2220A",
+    "contestId": 2220,
+    "index": "A",
+    "name": "Blocked",
+    "rating": 800,
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2220/A",
+    "sent_at": "2026-11-06T09:34:35.289759+00:00"
   }
 ]
