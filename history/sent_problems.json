@@ -1166,5 +1166,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2220/A",
     "sent_at": "2026-11-06T09:34:35.289759+00:00"
+  },
+  {
+    "key": "2245B",
+    "contestId": 2245,
+    "index": "B",
+    "name": "Delete and Concatenate",
+    "rating": 1100,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2245/B",
+    "sent_at": "2026-11-07T08:58:43.818976+00:00"
   }
 ]
