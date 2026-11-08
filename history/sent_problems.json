@@ -1178,5 +1178,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2245/B",
     "sent_at": "2026-11-07T08:58:43.818976+00:00"
+  },
+  {
+    "key": "2200A",
+    "contestId": 2200,
+    "index": "A",
+    "name": "Eating Game",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2200/A",
+    "sent_at": "2026-11-08T09:15:07.533167+00:00"
   }
 ]
