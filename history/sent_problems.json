@@ -1190,5 +1190,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2200/A",
     "sent_at": "2026-11-08T09:15:07.533167+00:00"
+  },
+  {
+    "key": "2258A",
+    "contestId": 2258,
+    "index": "A",
+    "name": "Odd Eraser",
+    "rating": 800,
+    "tags": [
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2258/A",
+    "sent_at": "2026-11-09T09:58:28.539799+00:00"
   }
 ]
