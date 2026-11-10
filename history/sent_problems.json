@@ -1202,5 +1202,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2258/A",
     "sent_at": "2026-11-09T09:58:28.539799+00:00"
+  },
+  {
+    "key": "2261A",
+    "contestId": 2261,
+    "index": "A",
+    "name": "Hey, It's Me, Souvlakity",
+    "rating": 800,
+    "tags": [
+      "games",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2261/A",
+    "sent_at": "2026-11-10T10:07:58.243674+00:00"
   }
 ]
