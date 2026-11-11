@@ -1215,5 +1215,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2261/A",
     "sent_at": "2026-11-10T10:07:58.243674+00:00"
+  },
+  {
+    "key": "2204B",
+    "contestId": 2204,
+    "index": "B",
+    "name": "Right Maximum",
+    "rating": 800,
+    "tags": [
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2204/B",
+    "sent_at": "2026-11-11T09:39:18.798020+00:00"
   }
 ]
