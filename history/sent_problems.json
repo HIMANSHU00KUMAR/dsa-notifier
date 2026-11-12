@@ -1227,5 +1227,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2204/B",
     "sent_at": "2026-11-11T09:39:18.798020+00:00"
+  },
+  {
+    "key": "2267C",
+    "contestId": 2267,
+    "index": "C",
+    "name": "GCD Treasury",
+    "rating": 1200,
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2267/C",
+    "sent_at": "2026-11-12T09:59:02.393445+00:00"
   }
 ]
