@@ -1269,5 +1269,21 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2268/A",
     "sent_at": "2026-11-14T09:09:45.816175+00:00"
+  },
+  {
+    "key": "2203B",
+    "contestId": 2203,
+    "index": "B",
+    "name": "Beautiful Numbers",
+    "rating": 1000,
+    "tags": [
+      "bitmasks",
+      "dp",
+      "fft",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2203/B",
+    "sent_at": "2026-11-15T09:39:19.014328+00:00"
   }
 ]
