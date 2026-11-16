@@ -1285,5 +1285,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2203/B",
     "sent_at": "2026-11-15T09:39:19.014328+00:00"
+  },
+  {
+    "key": "2256A",
+    "contestId": 2256,
+    "index": "A",
+    "name": "Three Numbers on the Blackboard",
+    "rating": 800,
+    "tags": [
+      "math",
+      "sortings"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2256/A",
+    "sent_at": "2026-11-16T09:57:28.649798+00:00"
   }
 ]
