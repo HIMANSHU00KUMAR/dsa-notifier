@@ -1298,5 +1298,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2256/A",
     "sent_at": "2026-11-16T09:57:28.649798+00:00"
+  },
+  {
+    "key": "2233B",
+    "contestId": 2233,
+    "index": "B",
+    "name": "Different Distances",
+    "rating": 900,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2233/B",
+    "sent_at": "2026-11-17T10:53:46.618401+00:00"
   }
 ]
