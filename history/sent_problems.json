@@ -1323,5 +1323,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2205/B",
     "sent_at": "2026-11-18T10:24:37.927551+00:00"
+  },
+  {
+    "key": "2262A1",
+    "contestId": 2262,
+    "index": "A1",
+    "name": "Floor of MEX (Easy Version)",
+    "rating": 1200,
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2262/A1",
+    "sent_at": "2026-11-19T10:32:26.572303+00:00"
   }
 ]
