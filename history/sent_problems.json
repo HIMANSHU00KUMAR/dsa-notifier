@@ -1362,5 +1362,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2244/B",
     "sent_at": "2026-11-21T09:59:05.558594+00:00"
+  },
+  {
+    "key": "2260B",
+    "contestId": 2260,
+    "index": "B",
+    "name": "Monocarp and Projects",
+    "rating": 900,
+    "tags": [
+      "brute force",
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2260/B",
+    "sent_at": "2026-11-22T09:58:34.943145+00:00"
   }
 ]
