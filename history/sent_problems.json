@@ -1407,5 +1407,18 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2244/C",
     "sent_at": "2026-11-24T12:42:56.243861+00:00"
+  },
+  {
+    "key": "2259B",
+    "contestId": 2259,
+    "index": "B",
+    "name": "Minus Two",
+    "rating": 800,
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2259/B",
+    "sent_at": "2026-11-25T11:30:24.495899+00:00"
   }
 ]
