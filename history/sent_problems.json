@@ -1420,5 +1420,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2259/B",
     "sent_at": "2026-11-25T11:30:24.495899+00:00"
+  },
+  {
+    "key": "2250B",
+    "contestId": 2250,
+    "index": "B",
+    "name": "String Construction",
+    "rating": 1000,
+    "tags": [
+      "constructive algorithms"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2250/B",
+    "sent_at": "2026-11-26T11:11:33.054071+00:00"
   }
 ]
