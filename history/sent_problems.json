@@ -1432,5 +1432,19 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2250/B",
     "sent_at": "2026-11-26T11:11:33.054071+00:00"
+  },
+  {
+    "key": "2266B",
+    "contestId": 2266,
+    "index": "B",
+    "name": "Three Piles",
+    "rating": 800,
+    "tags": [
+      "games",
+      "greedy",
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2266/B",
+    "sent_at": "2026-11-27T11:03:20.992972+00:00"
   }
 ]
