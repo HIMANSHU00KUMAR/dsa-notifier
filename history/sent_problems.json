@@ -1446,5 +1446,17 @@
     ],
     "url": "https://codeforces.com/problemset/problem/2266/B",
     "sent_at": "2026-11-27T11:03:20.992972+00:00"
+  },
+  {
+    "key": "2184B",
+    "contestId": 2184,
+    "index": "B",
+    "name": "Hourglass",
+    "rating": 1100,
+    "tags": [
+      "math"
+    ],
+    "url": "https://codeforces.com/problemset/problem/2184/B",
+    "sent_at": "2026-11-28T10:40:15.431353+00:00"
   }
 ]
